@@ -13,8 +13,8 @@
 <br />
 
 ### <p align="center">Software Engineer and Graduate of Turing School of Software & Design</p>
-<p align="center">
-    I'm driven by learning new things, solving problems, and collaboration, all of which led me to the field of software development after nearly a decade in the oil and gas industry. I've found a tremendous amount of fulfillment as I've progressed, and am fueled by my strong work ethic and desire to continuously improve my skills and produce well-made, useful applications with a high aesthetic value.
+<p align="justify">
+I'm driven by learning new things, solving problems, and collaboration, all of which led me to the field of software development after nearly a decade in the oil and gas industry. I've found a tremendous amount of fulfillment as I've progressed, and am fueled by my strong work ethic and desire to continuously improve my skills and produce well-made, useful applications with a high aesthetic value.
 <br /><br />
 I specialize in front end development, with an emphasis on React, JavaScript, and TypeScript, and I invite you to take a look through the projects I've made thus far. 
 </p>
@@ -44,6 +44,9 @@ I specialize in front end development, with an emphasis on React, JavaScript, an
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkuhn2&layout=compact&show_icons=true&theme=onedark" alt="https://github.com/anuraghazra/github-readme-stats" />
 </div>
+
+
+
 <!--
 **bkuhn2/bkuhn2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -55,6 +58,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
