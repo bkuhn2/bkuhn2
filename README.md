@@ -1,15 +1,26 @@
-# Hi, I'm Brett!
+# <p align="center">Hi, I'm Brett!</p>
 
-### I'm a software engineer and a recent graduate of Turing School of Software and Design. 
 
-I'm driven by learning new things, solving problems, and collaboration, all of which led me to the field of software development after nearly a decade in the oil and gas industry. I've found a tremendous amount of fulfillment as I've progressed, and am fueled by my strong work ethic and desire to continuously improve my skills and produce well-made, useful applications with a high aesthetic value.
+<div align="center">
+  <a href="https://www.linkedin.com/in/brett-kuhn/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a> 
+  
+  <a href="https://bakportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio Site-0A66C2?style=social&logo=netlify&logoColor=black" />
+  </a>
+</div>
+<br />
 
+### <p align="center">Software Engineer and Graduate of Turing School of Software & Design</p>
+<p align="center">
+    I'm driven by learning new things, solving problems, and collaboration, all of which led me to the field of software development after nearly a decade in the oil and gas industry. I've found a tremendous amount of fulfillment as I've progressed, and am fueled by my strong work ethic and desire to continuously improve my skills and produce well-made, useful applications with a high aesthetic value.
+<br /><br />
 I specialize in front end development, with an emphasis on React, JavaScript, and TypeScript, and I invite you to take a look through the projects I've made thus far. 
+</p>
+<br/>
 
-- [LinkedIn](https://www.linkedin.com/in/brett-kuhn/)
-- [Portfolio Website](https://bakportfolio.netlify.app/)
-
-## Skills
+## <p align="center" >Skills</p>
 <p align="Center">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -27,10 +38,12 @@ I specialize in front end development, with an emphasis on React, JavaScript, an
   <img src="https://img.shields.io/badge/-Miro-050038?style=for-the-badge&logo=miro&logoColor=white" />
 </p>
 
-## Stats
-[![Brett's GitHub stats](https://github-readme-stats.vercel.app/api?username=bkuhn2&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bkuhn2&layout=compact&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
+## <p align="center" >Stats</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bkuhn2&show_icons=true&theme=onedark" alt="https://github.com/anuraghazra/github-readme-stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkuhn2&layout=compact&show_icons=true&theme=onedark" alt="https://github.com/anuraghazra/github-readme-stats" />
+</div>
 <!--
 **bkuhn2/bkuhn2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
